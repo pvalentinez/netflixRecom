@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run penguins_app.py
+web: sh setup.sh && streamlit run main.py
