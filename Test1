@@ -1,0 +1,3 @@
+git remote add origin https://github.com/pvalentinez/netflixRecom.git
+git branch -M main
+git push -u origin mainhttps://github.com/pvalentinez/netflixRecom
